@@ -2,11 +2,6 @@
 
 An [Istio](https://istio.io) + service mesh resource list.
 
-![](https://pbs.twimg.com/media/DlNQYQ9WsAEHc-n?format=jpg&name=medium)
-
-[source](https://twitter.com/deniseyu21/status/1032258052114841600/photo/1) - Denise Yu
-
-
 ## 🥳 Getting Started
 
 - [Video - What is a Service Mesh? (HashiCorp)](https://www.youtube.com/watch?v=vh1YtWjfcyk)
