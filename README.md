@@ -29,8 +29,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 
 - [Istio docs - Security ](https://istio.io/docs/concepts/security/)
 - [Sample - Introduction to Istio Security ](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/security-intro)
-- [Istio by Example - Mutual TLS](istiobyexample.dev/mtls)
-- [Istio by Example - JWT Authentication](istiobyexample.dev/jwt)
+- [Istio by Example - Mutual TLS](https://istiobyexample.dev/mtls)
+- [Istio by Example - JWT Authentication](https://istiobyexample.dev/jwt)
 - [Istio By Example - Authorization](https://istiobyexample.dev/authorization/)
 - [Istio Docs - Best Practices - Security](https://istio.io/docs/ops/best-practices/security/)
 
@@ -43,8 +43,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Istio by example - modify HTTP response headers](https://istiobyexample.dev/response-headers/)
 - [Istio by example - multiple traffic rules per service](https://istiobyexample.dev/multiple-traffic-rules/)
 - [Istio docs - Circuit Breaking](https://istio.io/docs/tasks/traffic-management/circuit-breaking/)
-- [Istio docs - task - Istio Ingress Traffic](https://istio.io/docs/tasks/traffic-management/ingress/)
-- [Istio docs - task - Istio Egress Traffic](https://istio.io/docs/tasks/traffic-management/egress/)
+- [Istio docs - task - Istio Ingress Traffic](https://istio.io/docs/tasks/traffic-management/ingress/ingress-control/)
+- [Istio docs - task - Manage traffic to external services](https://istio.io/docs/tasks/traffic-management/egress/egress-control/)
 - [Video- Istio in production - Day 2 traffic routing](https://www.youtube.com/watch?v=7cINRP0BFY8)
 - [Istio docs - Best Practices - Traffic Management](https://istio.io/docs/ops/best-practices/traffic-management/)
 
@@ -88,6 +88,6 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Kubernetes Podcast - Invention, IBM and Istio, with Lin Sun](https://kubernetespodcast.com/episode/086-invention-ibm-istio/) (2020)
 - [Blog Post - Istio as an Example of When Not to do Microservices - Christian Posta](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
 - [Blog Post - Do I Need an API Gateway if I use a service mesh? - Christian Posta](https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh/)
-- [Video - Istio 1.5 Feature Tour - Megan O'Keefe](https://www.youtube.com/watch?v=A4TqYj2vSA4)
 - [Video- Life of a packet through Istio - Matt Turner ](https://www.youtube.com/watch?v=cB611FtjHcQ)
 - [Video - Service Mesh in the Real World - Managing Egress Using Istio - Christian Posta, Betty Junod, and Sandeep Parikh](https://www.youtube.com/watch?v=hjTLSaK4PH8)
+- [Video - Istio 1.5 Feature Tour - Megan O'Keefe](https://www.youtube.com/watch?v=A4TqYj2vSA4)
