@@ -33,6 +33,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Istio by Example - JWT Authentication](https://istiobyexample.dev/jwt)
 - [Istio By Example - Authorization](https://istiobyexample.dev/authorization/)
 - [Istio Docs - Best Practices - Security](https://istio.io/docs/ops/best-practices/security/)
+- [Controlling Access to Your Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=5MqSOnQ7ZGw)
 
 ## 🚦 Traffic Management
 
