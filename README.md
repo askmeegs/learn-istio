@@ -20,7 +20,9 @@ An [Istio](https://istio.io) + service mesh resource list.
 ## 📊 Observability
 
 - [Istio Docs - Observability concepts](https://istio.io/docs/concepts/observability/)
+- [Blog Post - Istio Prometheus Demo (Ultimate Security)](https://ultimatesecurity.pro/post/istio-prometheus/)
 - [Task - Using Istio's Grafana Dashboards](https://istio.io/docs/tasks/telemetry/metrics/using-istio-dashboard/)
+- [Blog Post - Istio Grafana Demo (Ultimate Security)](https://ultimatesecurity.pro/post/istio-grafana/)
 - [Task - Service Graph with Kiali ](https://istio.io/docs/tasks/telemetry/kiali/)
 - [Sample - Using Google Cloud Monitoring (Stackdriver) for Istio metrics ](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/istio-stackdriver)
 - [Istio Docs - Best Practices - Observability](https://istio.io/docs/ops/best-practices/observability/)
@@ -30,6 +32,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Istio docs - Security ](https://istio.io/docs/concepts/security/)
 - [Sample - Introduction to Istio Security ](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/security-intro)
 - [Istio by Example - Mutual TLS](https://istiobyexample.dev/mtls)
+- [Blog Post - Istio Mutual TLS Demo (Ultimate Security)](https://ultimatesecurity.pro/post/istio-mtls/)
 - [Istio by Example - JWT Authentication](https://istiobyexample.dev/jwt)
 - [Istio By Example - Authorization](https://istiobyexample.dev/authorization/)
 - [Istio Docs - Best Practices - Security](https://istio.io/docs/ops/best-practices/security/)
