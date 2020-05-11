@@ -16,6 +16,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [ebook - The Service Mesh Era (Google Cloud)](https://services.google.com/fh/files/misc/the_service_mesh_era_architecting_securing_and_managing_microservices_with_istio_white_paper.pdf)
 - [Slides - Service Mesh from the Ground Up (O'Reilly Software Architecture Conference - 2020)](http://bit.ly/istio-sacon)
 - [Istio docs - Learn Microservices using Kubernetes and Istio](https://istio.io/docs/examples/microservices-istio/)
+- [Istio Handbook [zh-CN] (Service Mesher)](https://github.com/servicemesher/istio-handbook)
 
 ## 📊 Observability
 
