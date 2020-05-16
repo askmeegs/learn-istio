@@ -93,6 +93,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Kubernetes Podcast - Invention, IBM and Istio, with Lin Sun](https://kubernetespodcast.com/episode/086-invention-ibm-istio/) (2020)
 - [Blog Post - Istio as an Example of When Not to do Microservices - Christian Posta](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
 - [Blog Post - Do I Need an API Gateway if I use a service mesh? - Christian Posta](https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh/)
+- [Blog Post - In-depth analysis of Istio traffic management implementation mechanism - Zhao Huabing](https://zhaohuabing.com/post/2018-09-25-istio-traffic-management-impl-intro/)
 - [Video- Life of a packet through Istio - Matt Turner ](https://www.youtube.com/watch?v=cB611FtjHcQ)
 - [Video - Service Mesh in the Real World - Managing Egress Using Istio - Christian Posta, Betty Junod, and Sandeep Parikh](https://www.youtube.com/watch?v=hjTLSaK4PH8)
 - [Video - Istio 1.5 Feature Tour - Megan O'Keefe](https://www.youtube.com/watch?v=A4TqYj2vSA4)
