@@ -17,6 +17,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Slides - Service Mesh from the Ground Up (O'Reilly Software Architecture Conference - 2020)](http://bit.ly/istio-sacon)
 - [Istio docs - Learn Microservices using Kubernetes and Istio](https://istio.io/docs/examples/microservices-istio/)
 - [Istio Handbook [zh-CN] (Service Mesher)](https://github.com/servicemesher/istio-handbook)
+- [Learn Istio in a visual way, with sketchnotes - Aurélie Vache](https://dev.to/aurelievache/understanding-istio-part-1-istio-components-4ik5)
 
 ## 📊 Observability
 
