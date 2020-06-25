@@ -18,6 +18,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Istio docs - Learn Microservices using Kubernetes and Istio](https://istio.io/docs/examples/microservices-istio/)
 - [Istio Handbook [zh-CN] (Service Mesher)](https://github.com/servicemesher/istio-handbook)
 - [Learn Istio in a visual way, with sketchnotes - Aurélie Vache](https://dev.to/aurelievache/understanding-istio-part-1-istio-components-4ik5)
+- [Istio: Up and Running](https://layer5.io/books/istio-up-and-running)
+- [Istio Service Mesh Workshop](https://github.com/layer5io/istio-service-mesh-workshop)
 
 ## 📊 Observability
 
