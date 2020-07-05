@@ -2,9 +2,10 @@
 
 An [Istio](https://istio.io) + service mesh resource list.
 
-## 🔎 When + why use a service mesh?
+## 🔎 Why Use a Service Mesh? 
+
 - [Book excerpt - Should I Use Microservices? - Sam Newman](https://www.oreilly.com/content/should-i-use-microservices/)
-- [Book Excerpt - Do you need a service mesh?  - George Miranda](https://www.oreilly.com/content/do-you-need-a-service-mesh/)
+- [Book excerpt - Do you need a service mesh?  - George Miranda](https://www.oreilly.com/content/do-you-need-a-service-mesh/)
 - [Twitter - Matt Klein on service mesh](https://twitter.com/mattklein123/status/1142905758847315968)
 - [Envoy docs - Service Mesh](https://www.envoyproxy.io/learn/service-mesh)
 - [Blog post - What's a service mesh? And why do I need one? - William Morgan](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
@@ -14,23 +15,23 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Platform9 - Kubernetes Service Mesh: A Comparison of Istio, Linkerd, and Consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)
 - [ThoughtWorks Technology Radar - Istio](https://www.thoughtworks.com/radar/platforms/istio)
 
-## 🚀 Service Mesh Use Cases
+## 🚀 Use Cases
 
-- [Blog post - Hellofresh - Everything We Learned Running Istio in Production (2020)](https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-1-51efec69df65)
-- [Blog post - Machine Learning in Production: Using Istio to Mesh Microservices in Google Kubernetes Engine - Dr. Stephen Odaibo (2020)](https://medium.com/retina-ai-health-inc/machine-learning-in-production-using-istio-to-mesh-microservices-in-google-kubernetes-engine-9b15fb643bab)
+- [Blog post - Hellofresh - Everything We Learned Running Istio in Production](https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-1-51efec69df65)  (2020)
+- [Blog post - Machine Learning in Production: Using Istio to Mesh Microservices in Google Kubernetes Engine - Dr. Stephen Odaibo](https://medium.com/retina-ai-health-inc/machine-learning-in-production-using-istio-to-mesh-microservices-in-google-kubernetes-engine-9b15fb643bab) (2020)
 - [Docs - Istio usage in Kubeflow](https://www.kubeflow.org/docs/other-guides/istio-in-kubeflow/)
 - [Kubernetes Podcast-  AutoTrader UK, with Russell Warman and Karl Stoney](https://kubernetespodcast.com/episode/052-autotrader/) (2019)
 - [Blog post - How the U.S. Air Force Deployed Kubernetes and Istio on an F-16 in 45 days](https://thenewstack.io/how-the-u-s-air-force-deployed-kubernetes-and-istio-on-an-f-16-in-45-days/) (2019)
-- [Blog post - Descartes Labs - Custom Kubernetes Scaling via Envoy Metrics (2019)](https://medium.com/descarteslabs-team/custom-kubernetes-scaling-via-envoy-metrics-110d0bac720)
+- [Blog post - Descartes Labs - Custom Kubernetes Scaling via Envoy Metrics](https://medium.com/descarteslabs-team/custom-kubernetes-scaling-via-envoy-metrics-110d0bac720) (2019)
 - [Slides - From Brownfield to Greenfield: Freddie Mac's Service Mesh Journey](https://static.sched.com/hosted_files/kccncna19/63/Tetrate%20-%20Freddie%20Mac%20-%20Istio%20Service%20Mesh.pdf) (2019)
 - [AspenMesh Customer Stories - Delphi Technology](https://aspenmesh.io/landing_page/customer-story-delphi-simplifies-kubernetes-security-with-aspen-mesh/)
-- [Blog post - Istio a Game Changer for HP's FitStation Platform (2018)](https://istio.io/latest/blog/2018/hp/)
+- [Blog post - Istio a Game Changer for HP's FitStation Platform](https://istio.io/latest/blog/2018/hp/) (2018)
 - [Slides - Istio: The Weather Company's Journey](https://static.sched.com/hosted_files/kccnceu18/0e/Istio%20-%20The%20Weather%20Company%27s%20Journey.pdf) (2018)
 
 ## 🥳 Getting Started with Istio
 
 - [Video - Istio Explained - Ram Vennam, IBM](https://www.youtube.com/watch?v=6zDrLvpfCK4)
-- [Video - Istio in 5 Minutes - Megan O'Keefe](bit.ly/istio-in-5)
+- [Video - Istio in 5 Minutes - Megan O'Keefe](https://www.youtube.com/watch?v=hkR1M6qwpnw)
 - [Docs - What is Istio? ](https://istio.io/docs/concepts/what-is-istio/)
 - [Docs - Getting Started](https://istio.io/docs/setup/getting-started/)
 - [Video - Incrementally Adopting Istio - Sandeep Parikh](https://www.youtube.com/watch?v=0cgTHQFXYPQ)
@@ -97,8 +98,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Tutorial - Deploying Wasm Filters to Istio - solo.io](https://docs.solo.io/web-assembly-hub/latest/tutorial_code/deploy_tutorials/deploying_with_istio/)
 
 
-## 🏗 Operations + Troubleshooting
-
+## 🏗 Operations
 - [Docs - Upgrade Istio using istioctl](https://istio.io/docs/setup/upgrade/istioctl-upgrade/)
 - [Docs - Common Problems](https://istio.io/docs/ops/common-problems/)
 - [Docs - Istio FAQ](https://istio.io/faq/)
@@ -106,7 +106,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Docs - Istio API Reference](https://istio.io/docs/reference/config/)
 - [Blog post - Understanding Envoy Proxy HTTP Access Logs - Richard Li, Ambassador Blog](https://blog.getambassador.io/understanding-envoy-proxy-and-ambassador-http-access-logs-fee7802a2ec5)
 
-## 🌊 Architecture / Deep Dives
+## 🌊 Deep Dives
 - [Blog posts - Microservices Guide - Martin Fowler](https://martinfowler.com/microservices/)
 - [Docs - Istio Architecture](https://istio.io/docs/ops/deployment/architecture/)
 - [Docs - Istio Performance and Scalability](https://istio.io/docs/ops/deployment/performance-and-scalability/)
