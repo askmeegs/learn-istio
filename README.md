@@ -42,6 +42,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Blog post - Learn Istio in a visual way, with sketchnotes - Aurélie Vache](https://dev.to/aurelievache/understanding-istio-part-1-istio-components-4ik5)
 - [Book - Istio: Up and Running](https://layer5.io/books/istio-up-and-running)
 - [Workshop - Istio Service Mesh](https://github.com/layer5io/istio-service-mesh-workshop)
+- [Book - Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
 
 ## 📊 Observability
 
