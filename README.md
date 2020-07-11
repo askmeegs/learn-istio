@@ -64,6 +64,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Sample - Istio By Example - Authorization](https://istiobyexample.dev/authorization/)
 - [Docs - Best Practices - Security](https://istio.io/docs/ops/best-practices/security/)
 - [Video - Controlling Access to Your Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=5MqSOnQ7ZGw)
+- [Video - Securing gRPC Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=g2fexevWS8A)
 
 ## 🚦 Traffic Management
 
