@@ -69,7 +69,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Docs - Best Practices - Security](https://istio.io/docs/ops/best-practices/security/)
 - [Video - Controlling Access to Your Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=5MqSOnQ7ZGw)
 - [Video - Securing gRPC Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=g2fexevWS8A)
-- [Video - Auto mTLS and JWT] (https://www.youtube.com/playlist?list=PLBOtlFtGznBjMpsZYqqD5CO2pqTshrazB)
+- [Video - Auto mTLS and JWT](https://www.youtube.com/playlist?list=PLBOtlFtGznBjMpsZYqqD5CO2pqTshrazB)
 
 ## 🚦 Traffic Management
 
