@@ -27,6 +27,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [AspenMesh Customer Stories - Delphi Technology](https://aspenmesh.io/landing_page/customer-story-delphi-simplifies-kubernetes-security-with-aspen-mesh/)
 - [Blog post - Istio a Game Changer for HP's FitStation Platform](https://istio.io/latest/blog/2018/hp/) (2018)
 - [Slides - Istio: The Weather Company's Journey](https://static.sched.com/hosted_files/kccnceu18/0e/Istio%20-%20The%20Weather%20Company%27s%20Journey.pdf) (2018)
+- [Solo.io and Google - Service Mesh in the Real World - use case demos with Istio] (https://www.solo.io/resource/service-mesh-in-the-real-world/)
+
 
 ## 🥳 Getting Started with Istio
 
@@ -43,6 +45,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Book - Istio: Up and Running](https://layer5.io/books/istio-up-and-running)
 - [Workshop - Istio Service Mesh](https://github.com/layer5io/istio-service-mesh-workshop)
 - [Book - Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
+- [Book - Istio in Action - Chrisian Posta] (https://www.manning.com/books/istio-in-action)
+
 
 ## 📊 Observability
 
@@ -65,6 +69,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Docs - Best Practices - Security](https://istio.io/docs/ops/best-practices/security/)
 - [Video - Controlling Access to Your Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=5MqSOnQ7ZGw)
 - [Video - Securing gRPC Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=g2fexevWS8A)
+- [Video - Auto mTLS and JWT] (https://www.youtube.com/playlist?list=PLBOtlFtGznBjMpsZYqqD5CO2pqTshrazB)
 
 ## 🚦 Traffic Management
 
@@ -84,6 +89,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Docs - Istio Deployment Models](https://istio.io/docs/ops/deployment/deployment-models/)
 - [Sample - Multicluster with replicated control planes](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/multicluster-gke/dual-control-plane)
 - [Sample - Multicluster with a shared control plane ](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/multicluster-gke/single-control-plane)
+- [Blog - Open Source Service Mesh Hub for multicluster mesh management plane] (https://www.solo.io/blog/open-source-service-mesh-hub-technical-overview/)
+- [Video - multicluster grouping and operation with Service Mesh Hub] (https://www.youtube.com/playlist?list=PLBOtlFtGznBjr4E9xYHH9eVyiOwnk1ciK)
 
 
 ## ⬆️ Virtual Machines
@@ -122,3 +129,4 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Video- Life of a packet through Istio - Matt Turner ](https://www.youtube.com/watch?v=cB611FtjHcQ)
 - [Video - Service Mesh in the Real World - Managing Egress Using Istio - Christian Posta, Betty Junod, and Sandeep Parikh](https://www.youtube.com/watch?v=hjTLSaK4PH8)
 - [Video - Istio 1.5 Feature Tour - Megan O'Keefe](https://www.youtube.com/watch?v=A4TqYj2vSA4)
+- [Developer Portal for Istio by Solo.io] (https://www.solo.io/blog/technical-deep-dive-istio-developer-portal/)
