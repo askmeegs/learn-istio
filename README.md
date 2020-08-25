@@ -45,7 +45,9 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Book - Istio: Up and Running](https://layer5.io/books/istio-up-and-running)
 - [Workshop - Istio Service Mesh](https://github.com/layer5io/istio-service-mesh-workshop)
 - [Book - Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
-- [Book - Istio in Action - Chrisian Posta](https://www.manning.com/books/istio-in-action)
+- [Book - Istio in Action - Christian Posta](https://www.manning.com/books/istio-in-action)
+- [Course - Learn Istio Service Mesh - Peter Jausovec](https://gumroad.com/l/learnistio)
+- [Workshop - Kubernetes and Service Mesh](https://github.com/peterj/workshop-material)
 
 
 ## 📊 Observability
@@ -70,6 +72,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Video - Controlling Access to Your Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=5MqSOnQ7ZGw)
 - [Video - Securing gRPC Microservices with Istio Service Mesh](https://www.youtube.com/watch?v=g2fexevWS8A)
 - [Video - Auto mTLS and JWT](https://www.youtube.com/playlist?list=PLBOtlFtGznBjMpsZYqqD5CO2pqTshrazB)
+- [Blog Post - Setting up SSL Certificates with Istio Gateway](https://www.learncloudnative.com/blog/2019-11-30-setup_ssl_certs_with_istio_gateway_part_i/)
 
 ## 🚦 Traffic Management
 
@@ -82,7 +85,8 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Sample - Istio by example - modify HTTP response headers](https://istiobyexample.dev/response-headers/)
 - [Sample - Istio by example - multiple traffic rules per service](https://istiobyexample.dev/multiple-traffic-rules/)
 - [Tool - Flagger - Istio Canary Deployments and A/B Testing](https://docs.flagger.app/tutorials/istio-progressive-delivery)
-
+- [Video - Traffic Mirroring with Istio](https://www.youtube.com/watch?v=YsJxpbEEc9M)
+- [Video - Istio Ingress Gateway](https://www.youtube.com/watch?v=ssqDgcEvdZ0)
 
 ## 🌏 Multicluster
 
@@ -130,3 +134,4 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Video - Service Mesh in the Real World - Managing Egress Using Istio - Christian Posta, Betty Junod, and Sandeep Parikh](https://www.youtube.com/watch?v=hjTLSaK4PH8)
 - [Video - Istio 1.5 Feature Tour - Megan O'Keefe](https://www.youtube.com/watch?v=A4TqYj2vSA4)
 - [Developer Portal for Istio by Solo.io](https://www.solo.io/blog/technical-deep-dive-istio-developer-portal/)
+- [Blog Post - Deploying Multiple Istio Ingress Gateways - Peter Jausovec](https://www.learncloudnative.com/blog/2020-01-09-deploying_multiple_gateways_with_istio/)
