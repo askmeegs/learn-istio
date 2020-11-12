@@ -109,7 +109,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Istio Blog - Redefining Extensibility in Proxies - introducing WebAssembly to Envoy and Istio](https://istio.io/blog/2020/wasm-announce/) (2020)
 - [WebAssembly Hub](https://webassemblyhub.io/)
 - [Tutorial - Deploying Wasm Filters to Istio - solo.io](https://docs.solo.io/web-assembly-hub/latest/tutorial_code/deploy_tutorials/deploying_with_istio/)
-
+- [Image Hub](https://github.com/layer5io/image-hub)
 
 ## 🏗 Operations
 - [Docs - Upgrade Istio using istioctl](https://istio.io/docs/setup/upgrade/istioctl-upgrade/)
