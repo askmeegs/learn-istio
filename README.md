@@ -19,7 +19,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 
 - [Blog post - Hellofresh - Everything We Learned Running Istio in Production](https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-1-51efec69df65)  (2020)
 - [Blog post - Machine Learning in Production: Using Istio to Mesh Microservices in Google Kubernetes Engine - Dr. Stephen Odaibo](https://medium.com/retina-ai-health-inc/machine-learning-in-production-using-istio-to-mesh-microservices-in-google-kubernetes-engine-9b15fb643bab) (2020)
-- [Docs - Istio usage in Kubeflow](https://www.kubeflow.org/docs/other-guides/istio-in-kubeflow/)
+- [Docs - Istio usage in Kubeflow](https://www.kubeflow.org/docs/external-add-ons/istio/istio-in-kubeflow/)
 - [Kubernetes Podcast-  AutoTrader UK, with Russell Warman and Karl Stoney](https://kubernetespodcast.com/episode/052-autotrader/) (2019)
 - [Blog post - How the U.S. Air Force Deployed Kubernetes and Istio on an F-16 in 45 days](https://thenewstack.io/how-the-u-s-air-force-deployed-kubernetes-and-istio-on-an-f-16-in-45-days/) (2019)
 - [Blog post - Descartes Labs - Custom Kubernetes Scaling via Envoy Metrics](https://medium.com/descarteslabs-team/custom-kubernetes-scaling-via-envoy-metrics-110d0bac720) (2019)
