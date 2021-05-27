@@ -48,6 +48,7 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Book - Istio in Action - Christian Posta](https://www.manning.com/books/istio-in-action)
 - [Course - Learn Istio Service Mesh - Peter Jausovec](https://gumroad.com/l/learnistio)
 - [Workshop - Kubernetes and Service Mesh](https://github.com/peterj/workshop-material)
+- [Blog post - How to Install and Configure Istio](https://www.loginradius.com/blog/async/istio-installation-and-service-configuration/)
 
 
 ## 📊 Observability
