@@ -136,5 +136,5 @@ An [Istio](https://istio.io) + service mesh resource list.
 - [Video - Istio 1.5 Feature Tour - Megan O'Keefe](https://www.youtube.com/watch?v=A4TqYj2vSA4)
 - [Developer Portal for Istio by Solo.io](https://www.solo.io/blog/technical-deep-dive-istio-developer-portal/)
 - [Blog Post - Deploying Multiple Istio Ingress Gateways - Peter Jausovec](https://www.learncloudnative.com/blog/2020-01-09-deploying_multiple_gateways_with_istio/)
-- [Book - Istio Insider](https://istio-insider.mygraphql.com/en/latest/) (2024)
-- [Book - Istio & Envoy 内幕(Chinese version of Istio Insider)](https://istio-insider.mygraphql.com/) (2024)
+- [Book - Istio & Envoy Insider](https://istio-insider.mygraphql.com/en/latest/) (2024)
+- [Book - Istio & Envoy 内幕(Chinese version of Istio & Envoy Insider)](https://istio-insider.mygraphql.com/) (2024)
